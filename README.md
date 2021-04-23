@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Nguyen Vu
 # Feel free to call me by Zoey
---- 
+
 - 🦆 [EasyMeme](https://github.com/ThanhNguyenVu/EasyMemes) is the project I am working on to help produce quick memes on iPad.
 - 🌱 I am currently studying Mathematics - Combinatorics and Optimization major at the University of Waterloo
 - 👀 I’m open for co-op/internship for Fall 2021
